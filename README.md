@@ -1,4 +1,4 @@
-# Landing Page Template built with Next JS 11+, Tailwind CSS 2.0 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+# Landing Page Template built with Next JS 11+, Tailwind CSS 2.0 and TypeScript
 
 Developer experience first:
 
